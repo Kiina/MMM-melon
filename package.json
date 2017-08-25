@@ -1,0 +1,22 @@
+{
+  "name": "mmm-melon",
+  "version": "0.1.0",
+  "description": "[MagicMirror Project on Github](https://github.com/MichMich/MagicMirror/)",
+  "main": "melon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiina/MMM-melon.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kiina/MMM-melon/issues"
+  },
+  "homepage": "https://github.com/Kiina/MMM-melon#readme",
+  "dependencies": {
+    "melon-chart-api": "^1.1.0"
+  }
+}
