@@ -1,5 +1,7 @@
 # Melon-Chart-Module for the MagicMirror
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kiina/MMM-melon.svg)](https://greenkeeper.io/)
+
 [MagicMirror Project on Github](https://github.com/MichMich/MagicMirror/)
 
 ## Usage
